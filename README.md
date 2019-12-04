@@ -18,6 +18,8 @@ Papers
 
 [Preferential Bayesian Optimization](https://arxiv.org/abs/1704.03651)
 
+[Variational Inference: A Review for Statisticians](https://arxiv.org/abs/1601.00670)
+
 [A Unifying View of Sparse Approximate Gaussian Process Regression](http://www.jmlr.org/papers/volume6/quinonero-candela05a/quinonero-candela05a.pdf)
 
 [Variational Inference in Sparse Gaussian Process Regression and Latent Variable Models – a Gentle Tutorial](https://arxiv.org/pdf/1402.1412.pdf)
